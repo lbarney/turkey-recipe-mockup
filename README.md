@@ -1,4 +1,4 @@
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Turkey</title>
@@ -30,4 +30,4 @@
 	
 </div>
 </body>
-</html>```
+</html>
