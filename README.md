@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>Turkey</title>
+	<title></title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
